@@ -10,4 +10,5 @@ anyways yours truly cozi
 
 P.S
 add my discord-Cozi#4200
+
 pls i need freinds
