@@ -1,0 +1,39 @@
+THIS IS A HOW TO DOWNLOAD STEP BY STEP
+
+STEP 1
+first up u need a pico rasberry pie 
+Get a Raspberry Pi Pico: https://geni.us/hSRkzrO ($8)
+
+STEP 2
+Download https://circuitpython.org/board/raspberry_pi_pico/ for the Raspberry Pi Pico. *Updated to 7.0.0
+
+STEP 3
+drag that file into the pico device 
+
+STEP 4
+the device should have reconnected as IRCUITPY
+
+STEP 5
+go here (https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/tag/20220323) download 7x bundle 
+
+STEP 6
+Navigate to lib in the recently downloaded folder and copy adafruit_hid to the lib folder in your Raspberry Pi Pico
+
+STEP 7
+click here (https://raw.githubusercontent.com/dbisu/pico-ducky/main/duckyinpython.py) press CTRL + S 
+and save the file as code.py in the root of the Raspberry Pi Pico, overwriting the previous file
+
+STEP 8 
+copy my script and paste it in note pad
+
+STEP 9
+save as payload.dd under "all files"
+
+STEP 10 
+plug in ur pico and see the magic happen 
+
+all credits to dibsu for the rubber ducky code 
+links
+https://github.com/dbisu/pico-ducky
+https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads
+https://www.youtube.com/watch?v=e_f9p-_JWZw
